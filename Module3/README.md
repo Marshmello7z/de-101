@@ -53,7 +53,4 @@
 - Загрузить файл с датасетом `superstore_clean.csv`
 - Открыть каждый из листов и просмотреть визуализации
 - Для детального изучения использовать фильтры справа
-
----
-
-*Автор: Ivan Sidorov*
+- **Посмотреть онлайн-дашборд:** [Superstore Tableau Dashboard](https://public.tableau.com/authoring/superstoreDB_examlpe_Ivan_S/)
