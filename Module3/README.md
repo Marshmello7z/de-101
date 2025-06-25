@@ -17,18 +17,18 @@
 ## Скриншоты
 
 ### 1. Основная информация и динамика продаж  
-[Посмотреть онлайн](https://public.tableau.com/views/superstoreDB_examlpe_Ivan_S/mainDB)  
+[Посмотреть онлайн](https://public.tableau.com/views/superstoreDB_examlpe_Ivan_S/Dashboard1)  
 ![main_DB](main_DB.png)
 
 ---
-### 1. Анализ категорий и субкатегорий  
-[Посмотреть онлайн](https://public.tableau.com/views/superstoreDB_examlpe_Ivan_S/categoryDB)  
+### 2. Анализ категорий и субкатегорий  
+[Посмотреть онлайн](https://public.tableau.com/views/superstoreDB_examlpe_Ivan_S/Dashboard3)  
 ![category_DB](category_DB.png)
 
 ---
 
 ### 3. Географический анализ продаж  
-[Посмотреть онлайн](https://public.tableau.com/views/superstoreDB_examlpe_Ivan_S/regionnDB)  
+[Посмотреть онлайн](https://public.tableau.com/views/superstoreDB_examlpe_Ivan_S/regionDB)  
 ![regionn_DB](regionn_db.png)
 
 ---
