@@ -16,15 +16,14 @@
 
 ## Скриншоты
 
+### 1. Основная информация и динамика продаж  
+[Посмотреть онлайн](https://public.tableau.com/views/superstoreDB_examlpe_Ivan_S/mainDB)  
+![main_DB](main_DB.png)
+
+---
 ### 1. Анализ категорий и субкатегорий  
 [Посмотреть онлайн](https://public.tableau.com/views/superstoreDB_examlpe_Ivan_S/categoryDB)  
 ![category_DB](category_DB.png)
-
----
-
-### 2. Основная информация и динамика продаж  
-[Посмотреть онлайн](https://public.tableau.com/views/superstoreDB_examlpe_Ivan_S/mainDB)  
-![main_DB](main_DB.png)
 
 ---
 
