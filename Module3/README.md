@@ -16,26 +16,26 @@
 
 ## Скриншоты
 
-### 1. Анализ категорий и субкатегорий
-
+### 1. Анализ категорий и субкатегорий  
+[Посмотреть онлайн](https://public.tableau.com/views/superstoreDB_examlpe_Ivan_S/categoryDB)  
 ![category_DB](category_DB.png)
 
 ---
 
-### 2. Основная информация и динамика продаж
-
+### 2. Основная информация и динамика продаж  
+[Посмотреть онлайн](https://public.tableau.com/views/superstoreDB_examlpe_Ivan_S/mainDB)  
 ![main_DB](main_DB.png)
 
 ---
 
-### 3. Географический анализ продаж
-
+### 3. Географический анализ продаж  
+[Посмотреть онлайн](https://public.tableau.com/views/superstoreDB_examlpe_Ivan_S/regionnDB)  
 ![regionn_DB](regionn_db.png)
 
 ---
 
-### 4. Анализ сегментов клиентов
-
+### 4. Анализ сегментов клиентов  
+[Посмотреть онлайн](https://public.tableau.com/views/superstoreDB_examlpe_Ivan_S/segmentDB)  
 ![segment_DB](segment_DB.png)
 
 ---
@@ -53,4 +53,8 @@
 - Загрузить файл с датасетом `superstore_clean.csv`
 - Открыть каждый из листов и просмотреть визуализации
 - Для детального изучения использовать фильтры справа
-- **Посмотреть онлайн-дашборд:** [Superstore Tableau Dashboard](https://public.tableau.com/authoring/superstoreDB_examlpe_Ivan_S/)
+- **Посмотреть весь онлайн-дашборд:** [Superstore Tableau Dashboard](https://public.tableau.com/authoring/superstoreDB_examlpe_Ivan_S)
+
+---
+
+*Автор: Ivan Sidorov*
