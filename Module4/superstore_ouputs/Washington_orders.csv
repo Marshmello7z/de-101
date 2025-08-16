@@ -1,0 +1,104 @@
+Order_ID;Order_Date;Ship_Date;Ship_Mode;Customer_ID;Customer_Name;Segment;Country;City;State;Postal_Code;Region;Product_ID;Sales;Quantity;Discount;Profit;Person
+CA-2016-101392;07/12/2016;13/12/2016;Standard Class;AS-10630;Ann Steele         ;Home Office;United States;Seattle      ;Washington  ;98103;West   ;OFF-ST-10000532;269,4;7;0;70;Anna Andreadi 
+CA-2016-102085;04/10/2016;09/10/2016;Standard Class;JD-16015;Joy Daniels        ;Consumer   ;United States;Seattle      ;Washington  ;98115;West   ;OFF-LA-10002475;29,2;4;0;13,7;Anna Andreadi 
+CA-2016-103660;25/08/2016;30/08/2016;Standard Class;MW-18220;Mitch Webber       ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;TEC-PH-10000895;1007,9;7;0,2;75,6;Anna Andreadi 
+CA-2016-103940;17/09/2016;21/09/2016;Standard Class;BN-11515;Bradley Nguyen     ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;OFF-ST-10004963;30,3;2;0;1,2;Anna Andreadi 
+CA-2016-103940;17/09/2016;21/09/2016;Standard Class;BN-11515;Bradley Nguyen     ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;OFF-ST-10000943;57,9;3;0;16,2;Anna Andreadi 
+CA-2016-103940;17/09/2016;21/09/2016;Standard Class;BN-11515;Bradley Nguyen     ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;FUR-FU-10004671;35,3;2;0;13,4;Anna Andreadi 
+CA-2016-103940;17/09/2016;21/09/2016;Standard Class;BN-11515;Bradley Nguyen     ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;OFF-BI-10002735;137,2;5;0,2;46,3;Anna Andreadi 
+CA-2016-104269;01/03/2016;06/03/2016;Second Class  ;DB-13060;Dave Brooks        ;Consumer   ;United States;Seattle      ;Washington  ;98115;West   ;FUR-CH-10004063;457,6;2;0,2;51,5;Anna Andreadi 
+CA-2016-104563;07/03/2016;12/03/2016;Standard Class;CM-12715;Craig Molinari     ;Corporate  ;United States;Seattle      ;Washington  ;98103;West   ;OFF-AR-10000390;20,6;5;0;9,5;Anna Andreadi 
+CA-2016-104563;07/03/2016;12/03/2016;Standard Class;CM-12715;Craig Molinari     ;Corporate  ;United States;Seattle      ;Washington  ;98103;West   ;OFF-ST-10000934;204,9;5;0;0;Anna Andreadi 
+CA-2016-104563;07/03/2016;12/03/2016;Standard Class;CM-12715;Craig Molinari     ;Corporate  ;United States;Seattle      ;Washington  ;98103;West   ;FUR-CH-10002780;436,7;6;0,2;21,8;Anna Andreadi 
+CA-2016-104563;07/03/2016;12/03/2016;Standard Class;CM-12715;Craig Molinari     ;Corporate  ;United States;Seattle      ;Washington  ;98103;West   ;FUR-CH-10004495;481,6;2;0,2;54,2;Anna Andreadi 
+CA-2016-107818;08/09/2016;14/09/2016;Standard Class;MC-17275;Marc Crier         ;Consumer   ;United States;Pasco        ;Washington  ;99301;West   ;OFF-AR-10003045;5,9;2;0;2,6;Anna Andreadi 
+CA-2016-107818;08/09/2016;14/09/2016;Standard Class;MC-17275;Marc Crier         ;Consumer   ;United States;Pasco        ;Washington  ;99301;West   ;FUR-CH-10000454;975,9;5;0,2;122;Anna Andreadi 
+CA-2016-107818;08/09/2016;14/09/2016;Standard Class;MC-17275;Marc Crier         ;Consumer   ;United States;Pasco        ;Washington  ;99301;West   ;OFF-AR-10000380;303,8;8;0;91,2;Anna Andreadi 
+CA-2016-107818;08/09/2016;14/09/2016;Standard Class;MC-17275;Marc Crier         ;Consumer   ;United States;Pasco        ;Washington  ;99301;West   ;OFF-ST-10000736;485,9;6;0;19,4;Anna Andreadi 
+CA-2016-108861;28/05/2016;01/06/2016;Standard Class;MM-17260;Magdelene Morse    ;Consumer   ;United States;Seattle      ;Washington  ;98105;West   ;OFF-BI-10003876;137;4;0,2;51,4;Anna Andreadi 
+CA-2016-111059;03/02/2016;06/02/2016;Second Class  ;TB-21400;Tom Boeckenhauer   ;Consumer   ;United States;Seattle      ;Washington  ;98105;West   ;OFF-BI-10004593;83,8;2;0,2;27,2;Anna Andreadi 
+CA-2016-111059;03/02/2016;06/02/2016;Second Class  ;TB-21400;Tom Boeckenhauer   ;Consumer   ;United States;Seattle      ;Washington  ;98105;West   ;OFF-BI-10002827;13,3;3;0,2;4,3;Anna Andreadi 
+CA-2016-111192;30/07/2016;05/08/2016;Standard Class;TS-21430;Tom Stivers        ;Corporate  ;United States;Seattle      ;Washington  ;98103;West   ;FUR-BO-10002916;1367,8;8;0;259,9;Anna Andreadi 
+CA-2016-111962;29/09/2016;04/10/2016;Standard Class;EB-14170;Evan Bailliet      ;Consumer   ;United States;Seattle      ;Washington  ;98115;West   ;OFF-BI-10001308;10;2;0,2;3,1;Anna Andreadi 
+CA-2016-111962;29/09/2016;04/10/2016;Standard Class;EB-14170;Evan Bailliet      ;Consumer   ;United States;Seattle      ;Washington  ;98115;West   ;OFF-ST-10000046;807,8;5;0;153,5;Anna Andreadi 
+CA-2016-116834;11/10/2016;16/10/2016;Standard Class;Dp-13240;Dean percer        ;Home Office;United States;Seattle      ;Washington  ;98115;West   ;FUR-FU-10001196;63,5;11;0;19;Anna Andreadi 
+CA-2016-116834;11/10/2016;16/10/2016;Standard Class;Dp-13240;Dean percer        ;Home Office;United States;Seattle      ;Washington  ;98115;West   ;TEC-AC-10002942;345;5;0;58,6;Anna Andreadi 
+CA-2016-121762;14/02/2016;18/02/2016;Standard Class;ML-17395;Marina Lichtenstein;Corporate  ;United States;Seattle      ;Washington  ;98103;West   ;TEC-AC-10000736;240;3;0;86,4;Anna Andreadi 
+CA-2016-121762;14/02/2016;18/02/2016;Standard Class;ML-17395;Marina Lichtenstein;Corporate  ;United States;Seattle      ;Washington  ;98103;West   ;OFF-AP-10001293;82;2;0;22,9;Anna Andreadi 
+CA-2016-121762;14/02/2016;18/02/2016;Standard Class;ML-17395;Marina Lichtenstein;Corporate  ;United States;Seattle      ;Washington  ;98103;West   ;OFF-SU-10000157;238,6;2;0;4,8;Anna Andreadi 
+CA-2016-124702;18/11/2016;25/11/2016;Standard Class;MH-17785;Maya Herman        ;Corporate  ;United States;Seattle      ;Washington  ;98105;West   ;FUR-FU-10003553;137,5;2;0;55;Anna Andreadi 
+CA-2016-124702;18/11/2016;25/11/2016;Standard Class;MH-17785;Maya Herman        ;Corporate  ;United States;Seattle      ;Washington  ;98105;West   ;FUR-TA-10003008;730,2;4;0;94,9;Anna Andreadi 
+CA-2016-126683;29/09/2016;01/10/2016;Second Class  ;PP-18955;Paul Prost         ;Home Office;United States;Seattle      ;Washington  ;98115;West   ;FUR-FU-10001706;6,2;2;0;3;Anna Andreadi 
+CA-2016-126683;29/09/2016;01/10/2016;Second Class  ;PP-18955;Paul Prost         ;Home Office;United States;Seattle      ;Washington  ;98115;West   ;FUR-TA-10002958;2348,8;9;0;399,3;Anna Andreadi 
+CA-2016-127012;11/08/2016;15/08/2016;Standard Class;GM-14680;Greg Matthias      ;Consumer   ;United States;Seattle      ;Washington  ;98105;West   ;FUR-FU-10003691;12,3;1;0;5,4;Anna Andreadi 
+CA-2016-127012;11/08/2016;15/08/2016;Standard Class;GM-14680;Greg Matthias      ;Consumer   ;United States;Seattle      ;Washington  ;98105;West   ;OFF-AR-10003903;41;1;0;10,7;Anna Andreadi 
+CA-2016-127012;11/08/2016;15/08/2016;Standard Class;GM-14680;Greg Matthias      ;Consumer   ;United States;Seattle      ;Washington  ;98105;West   ;OFF-FA-10004854;23;2;0;10,8;Anna Andreadi 
+CA-2016-127131;24/11/2016;30/11/2016;Standard Class;HR-14830;Harold Ryan        ;Corporate  ;United States;Seattle      ;Washington  ;98103;West   ;OFF-BI-10004656;12,1;7;0,2;4,2;Anna Andreadi 
+CA-2016-127131;24/11/2016;30/11/2016;Standard Class;HR-14830;Harold Ryan        ;Corporate  ;United States;Seattle      ;Washington  ;98103;West   ;OFF-ST-10002344;485,9;6;0;9,7;Anna Andreadi 
+CA-2016-127131;24/11/2016;30/11/2016;Standard Class;HR-14830;Harold Ryan        ;Corporate  ;United States;Seattle      ;Washington  ;98103;West   ;OFF-PA-10001800;25,9;4;0;12,4;Anna Andreadi 
+CA-2016-127131;24/11/2016;30/11/2016;Standard Class;HR-14830;Harold Ryan        ;Corporate  ;United States;Seattle      ;Washington  ;98103;West   ;OFF-ST-10000036;197,6;2;0;53,3;Anna Andreadi 
+CA-2016-127586;26/09/2016;30/09/2016;Standard Class;CS-12400;Christopher Schild ;Home Office;United States;Seattle      ;Washington  ;98115;West   ;OFF-ST-10002615;310,1;2;0;80,6;Anna Andreadi 
+CA-2016-128524;11/11/2016;13/11/2016;First Class   ;MZ-17515;Mary Zewe          ;Corporate  ;United States;Seattle      ;Washington  ;98115;West   ;OFF-AP-10002892;23;1;0;6,9;Anna Andreadi 
+CA-2016-128524;11/11/2016;13/11/2016;First Class   ;MZ-17515;Mary Zewe          ;Corporate  ;United States;Seattle      ;Washington  ;98115;West   ;TEC-AC-10002718;102,1;7;0;15,3;Anna Andreadi 
+CA-2016-128524;11/11/2016;13/11/2016;First Class   ;MZ-17515;Mary Zewe          ;Corporate  ;United States;Seattle      ;Washington  ;98115;West   ;OFF-BI-10003527;2033,6;2;0,2;762,6;Anna Andreadi 
+CA-2016-131310;12/07/2016;18/07/2016;Standard Class;CL-12565;Clay Ludtke        ;Consumer   ;United States;Seattle      ;Washington  ;98115;West   ;FUR-CH-10001797;123,1;4;0,2;13,9;Anna Andreadi 
+CA-2016-131310;12/07/2016;18/07/2016;Standard Class;CL-12565;Clay Ludtke        ;Consumer   ;United States;Seattle      ;Washington  ;98115;West   ;OFF-BI-10003094;11,3;4;0,2;3,8;Anna Andreadi 
+CA-2016-132787;19/09/2016;23/09/2016;Standard Class;MC-18130;Mike Caudle        ;Corporate  ;United States;Seattle      ;Washington  ;98115;West   ;OFF-ST-10001321;92,5;6;0;25;Anna Andreadi 
+CA-2016-133424;30/03/2016;04/04/2016;Standard Class;Dl-13600;Dorris liebe       ;Corporate  ;United States;Seattle      ;Washington  ;98105;West   ;OFF-ST-10002957;15,8;3;0;0;Anna Andreadi 
+CA-2016-133424;30/03/2016;04/04/2016;Standard Class;Dl-13600;Dorris liebe       ;Corporate  ;United States;Seattle      ;Washington  ;98105;West   ;OFF-LA-10002312;44,4;3;0;22,2;Anna Andreadi 
+CA-2016-134726;02/11/2016;07/11/2016;Second Class  ;SW-20755;Steven Ward        ;Corporate  ;United States;Seattle      ;Washington  ;98115;West   ;TEC-AC-10000023;41,9;2;0;15,1;Anna Andreadi 
+CA-2016-134726;02/11/2016;07/11/2016;Second Class  ;SW-20755;Steven Ward        ;Corporate  ;United States;Seattle      ;Washington  ;98115;West   ;TEC-PH-10001750;52,8;1;0,2;4,6;Anna Andreadi 
+CA-2016-135608;08/12/2016;10/12/2016;Second Class  ;JK-15625;Jim Karlsson       ;Consumer   ;United States;Olympia      ;Washington  ;98502;West   ;OFF-PA-10001954;45,7;2;0;21;Anna Andreadi 
+CA-2016-135608;08/12/2016;10/12/2016;Second Class  ;JK-15625;Jim Karlsson       ;Consumer   ;United States;Olympia      ;Washington  ;98502;West   ;FUR-CH-10002602;603,9;5;0,2;45,3;Anna Andreadi 
+CA-2016-135657;03/06/2016;07/06/2016;Second Class  ;SC-20725;Steven Cartwright  ;Consumer   ;United States;Seattle      ;Washington  ;98115;West   ;FUR-TA-10004086;515,9;6;0;113,5;Anna Andreadi 
+CA-2016-135993;28/05/2016;02/06/2016;Standard Class;PJ-18835;Patrick Jones      ;Corporate  ;United States;Seattle      ;Washington  ;98115;West   ;TEC-PH-10001552;57,4;6;0,2;5,7;Anna Andreadi 
+CA-2016-135993;28/05/2016;02/06/2016;Standard Class;PJ-18835;Patrick Jones      ;Corporate  ;United States;Seattle      ;Washington  ;98115;West   ;TEC-AC-10004877;27,6;4;0;2,2;Anna Andreadi 
+CA-2016-137351;30/09/2016;04/10/2016;Standard Class;DB-13615;Doug Bickford      ;Consumer   ;United States;Seattle      ;Washington  ;98105;West   ;OFF-BI-10003910;43,2;7;0,2;13,5;Anna Andreadi 
+CA-2016-138513;23/05/2016;27/05/2016;Standard Class;EH-13990;Erica Hackney      ;Consumer   ;United States;Bellevue     ;Washington  ;98006;West   ;OFF-PA-10003177;13;2;0;6,2;Anna Andreadi 
+CA-2016-142769;13/09/2016;13/09/2016;Same Day      ;RP-19390;Resi Pölking       ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;OFF-FA-10000840;5,7;5;0;2,7;Anna Andreadi 
+CA-2016-142769;13/09/2016;13/09/2016;Same Day      ;RP-19390;Resi Pölking       ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;FUR-FU-10001918;14,2;3;0;5,5;Anna Andreadi 
+CA-2016-142769;13/09/2016;13/09/2016;Same Day      ;RP-19390;Resi Pölking       ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;OFF-SU-10001574;7,3;2;0;2,2;Anna Andreadi 
+CA-2016-142769;13/09/2016;13/09/2016;Same Day      ;RP-19390;Resi Pölking       ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;TEC-AC-10001606;200;2;0;76;Anna Andreadi 
+CA-2016-142769;13/09/2016;13/09/2016;Same Day      ;RP-19390;Resi Pölking       ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;TEC-AC-10003399;145;4;0;60,9;Anna Andreadi 
+CA-2016-142769;13/09/2016;13/09/2016;Same Day      ;RP-19390;Resi Pölking       ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;TEC-AC-10000865;118;2;0;20,1;Anna Andreadi 
+CA-2016-142769;13/09/2016;13/09/2016;Same Day      ;RP-19390;Resi Pölking       ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;OFF-PA-10002923;48,9;1;0;24,5;Anna Andreadi 
+CA-2016-142769;13/09/2016;13/09/2016;Same Day      ;RP-19390;Resi Pölking       ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;OFF-AP-10004785;22,7;2;0;9,7;Anna Andreadi 
+CA-2016-143168;18/10/2016;23/10/2016;Second Class  ;IG-15085;Ivan Gibson        ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;OFF-PA-10000167;62;2;0;27,9;Anna Andreadi 
+CA-2016-143168;18/10/2016;23/10/2016;Second Class  ;IG-15085;Ivan Gibson        ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;OFF-BI-10003784;1,3;1;0,2;0,5;Anna Andreadi 
+CA-2016-144414;17/06/2016;21/06/2016;Standard Class;GH-14425;Gary Hwang         ;Consumer   ;United States;Seattle      ;Washington  ;98105;West   ;FUR-FU-10003981;6,2;3;0;2,6;Anna Andreadi 
+CA-2016-144414;17/06/2016;21/06/2016;Standard Class;GH-14425;Gary Hwang         ;Consumer   ;United States;Seattle      ;Washington  ;98105;West   ;OFF-FA-10000624;17,9;5;0;8,9;Anna Andreadi 
+CA-2016-144414;17/06/2016;21/06/2016;Standard Class;GH-14425;Gary Hwang         ;Consumer   ;United States;Seattle      ;Washington  ;98105;West   ;OFF-BI-10004995;3266,4;3;0,2;1061,6;Anna Andreadi 
+CA-2016-151995;13/10/2016;15/10/2016;First Class   ;ZC-21910;Zuschuss Carroll   ;Consumer   ;United States;Edmonds      ;Washington  ;98026;West   ;OFF-AR-10003190;11,5;4;0;3,2;Anna Andreadi 
+CA-2016-151995;13/10/2016;15/10/2016;First Class   ;ZC-21910;Zuschuss Carroll   ;Consumer   ;United States;Edmonds      ;Washington  ;98026;West   ;FUR-TA-10002903;1298,5;5;0;311,7;Anna Andreadi 
+CA-2016-151995;13/10/2016;15/10/2016;First Class   ;ZC-21910;Zuschuss Carroll   ;Consumer   ;United States;Edmonds      ;Washington  ;98026;West   ;OFF-AP-10000240;213,9;4;0;62;Anna Andreadi 
+CA-2016-151995;13/10/2016;15/10/2016;First Class   ;ZC-21910;Zuschuss Carroll   ;Consumer   ;United States;Edmonds      ;Washington  ;98026;West   ;TEC-AC-10001101;25,8;2;0;2,6;Anna Andreadi 
+CA-2016-153150;01/07/2016;06/07/2016;Second Class  ;Dl-13600;Dorris liebe       ;Corporate  ;United States;Seattle      ;Washington  ;98105;West   ;OFF-BI-10003355;19,9;5;0,2;7;Anna Andreadi 
+CA-2016-156587;07/03/2016;08/03/2016;First Class   ;AB-10015;Aaron Bergman      ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;FUR-CH-10004477;48,7;1;0,2;5,5;Anna Andreadi 
+CA-2016-156587;07/03/2016;08/03/2016;First Class   ;AB-10015;Aaron Bergman      ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;OFF-AR-10001427;17,9;3;0;4,7;Anna Andreadi 
+CA-2016-156587;07/03/2016;08/03/2016;First Class   ;AB-10015;Aaron Bergman      ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;OFF-ST-10002344;242,9;3;0;4,9;Anna Andreadi 
+CA-2016-159709;10/05/2016;15/05/2016;Standard Class;AI-10855;Arianne Irving     ;Consumer   ;United States;Kent         ;Washington  ;98031;West   ;OFF-EN-10001434;158,1;3;0;77,5;Anna Andreadi 
+CA-2016-159709;10/05/2016;15/05/2016;Standard Class;AI-10855;Arianne Irving     ;Consumer   ;United States;Kent         ;Washington  ;98031;West   ;TEC-PH-10003988;43,6;5;0,2;4,4;Anna Andreadi 
+CA-2016-162278;26/10/2016;30/10/2016;Second Class  ;AH-10585;Angele Hood        ;Consumer   ;United States;Seattle      ;Washington  ;98105;West   ;FUR-FU-10000448;63,9;4;0;3,2;Anna Andreadi 
+CA-2016-162278;26/10/2016;30/10/2016;Second Class  ;AH-10585;Angele Hood        ;Consumer   ;United States;Seattle      ;Washington  ;98105;West   ;TEC-PH-10000526;384;5;0,2;38,4;Anna Andreadi 
+CA-2016-165568;15/02/2016;19/02/2016;Standard Class;BF-11020;Barry Französisch  ;Corporate  ;United States;Seattle      ;Washington  ;98105;West   ;OFF-BI-10001031;21,4;5;0,2;7,2;Anna Andreadi 
+CA-2016-166471;09/08/2016;13/08/2016;Standard Class;MG-17650;Matthew Grinstein  ;Home Office;United States;Seattle      ;Washington  ;98103;West   ;TEC-PH-10001530;1091,2;4;0,2;68,2;Anna Andreadi 
+CA-2016-166471;09/08/2016;13/08/2016;Standard Class;MG-17650;Matthew Grinstein  ;Home Office;United States;Seattle      ;Washington  ;98103;West   ;TEC-PH-10000038;219,2;2;0,2;-43,8;Anna Andreadi 
+CA-2016-169726;09/08/2016;13/08/2016;Standard Class;JH-15985;Joseph Holt        ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;OFF-BI-10004600;2060,7;7;0,2;644;Anna Andreadi 
+CA-2016-169803;06/04/2016;12/04/2016;Standard Class;SC-20260;Scott Cohen        ;Corporate  ;United States;Seattle      ;Washington  ;98115;West   ;FUR-TA-10000688;653,5;3;0;111,1;Anna Andreadi 
+CA-2016-169803;06/04/2016;12/04/2016;Standard Class;SC-20260;Scott Cohen        ;Corporate  ;United States;Seattle      ;Washington  ;98115;West   ;TEC-AC-10003441;33,9;2;0;2;Anna Andreadi 
+CA-2017-102036;21/09/2017;27/09/2017;Standard Class;CS-12130;Chad Sievert       ;Consumer   ;United States;Seattle      ;Washington  ;98105;West   ;OFF-ST-10003123;199,7;6;0;47,9;Anna Andreadi 
+CA-2017-102855;05/04/2017;06/04/2017;Same Day      ;JF-15415;Jennifer Ferguson  ;Consumer   ;United States;Spokane      ;Washington  ;99207;West   ;TEC-AC-10001767;239,9;6;0;26,4;Anna Andreadi 
+CA-2017-102855;05/04/2017;06/04/2017;Same Day      ;JF-15415;Jennifer Ferguson  ;Consumer   ;United States;Spokane      ;Washington  ;99207;West   ;OFF-AR-10002467;23,8;8;0;6,4;Anna Andreadi 
+CA-2017-103723;01/12/2017;06/12/2017;Standard Class;BT-11305;Beth Thompson      ;Home Office;United States;Seattle      ;Washington  ;98105;West   ;OFF-AR-10003251;13,9;5;0;5,6;Anna Andreadi 
+CA-2017-109638;15/12/2017;22/12/2017;Standard Class;JH-15985;Joseph Holt        ;Consumer   ;United States;Seattle      ;Washington  ;98115;West   ;OFF-AP-10002472;103,9;4;0;36,4;Anna Andreadi 
+CA-2017-109638;15/12/2017;22/12/2017;Standard Class;JH-15985;Joseph Holt        ;Consumer   ;United States;Seattle      ;Washington  ;98115;West   ;TEC-AC-10004571;899,9;9;0;378;Anna Andreadi 
+CA-2017-109638;15/12/2017;22/12/2017;Standard Class;JH-15985;Joseph Holt        ;Consumer   ;United States;Seattle      ;Washington  ;98115;West   ;OFF-BI-10001098;51,3;3;0,2;18,6;Anna Andreadi 
+CA-2017-110457;02/03/2017;06/03/2017;Standard Class;DK-13090;Dave Kipp          ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;FUR-TA-10001768;787,5;3;0;165,4;Anna Andreadi 
+CA-2017-111507;06/02/2017;13/02/2017;Standard Class;VW-21775;Victoria Wilson    ;Corporate  ;United States;Bellevue     ;Washington  ;98006;West   ;OFF-AR-10001315;5,3;3;0;1,5;Anna Andreadi 
+CA-2017-111829;19/03/2017;20/03/2017;First Class   ;FH-14365;Fred Hopkins       ;Corporate  ;United States;Seattle      ;Washington  ;98115;West   ;OFF-ST-10000142;1247,6;3;0;349,3;Anna Andreadi 
+CA-2017-111829;19/03/2017;20/03/2017;First Class   ;FH-14365;Fred Hopkins       ;Corporate  ;United States;Seattle      ;Washington  ;98115;West   ;TEC-CO-10001766;3149,9;7;0;1480,5;Anna Andreadi 
+CA-2017-111829;19/03/2017;20/03/2017;First Class   ;FH-14365;Fred Hopkins       ;Corporate  ;United States;Seattle      ;Washington  ;98115;West   ;OFF-PA-10004359;209,7;2;0;100,7;Anna Andreadi 
+CA-2017-112116;16/03/2017;18/03/2017;Second Class  ;JE-15475;Jeremy Ellison     ;Consumer   ;United States;Seattle      ;Washington  ;98103;West   ;FUR-TA-10001039;172;2;0;44,7;Anna Andreadi 
+CA-2017-112305;20/11/2017;25/11/2017;Standard Class;KB-16405;Katrina Bavinger   ;Home Office;United States;Seattle      ;Washington  ;98105;West   ;OFF-AR-10002067;119;6;0;31;Anna Andreadi 
+CA-2017-112305;20/11/2017;25/11/2017;Standard Class;KB-16405;Katrina Bavinger   ;Home Office;United States;Seattle      ;Washington  ;98105;West   ;FUR-FU-10002364;22,1;3;0;6,4;Anna Andreadi 
+CA-2017-112305;

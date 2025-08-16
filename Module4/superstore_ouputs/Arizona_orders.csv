@@ -1,0 +1,26 @@
+Order_ID;Order_Date;Ship_Date;Ship_Mode;Customer_ID;Customer_Name;Segment;Country;City;State;Postal_Code;Region;Product_ID;Sales;Quantity;Discount;Profit;Person
+CA-2016-100363;08/04/2016;15/04/2016;Standard Class;JM-15655;Jim Mitchum        ;Corporate  ;United States;Glendale     ;Arizona     ;85301;West   ;OFF-FA-10000611;2,4;2;0,2;0,8;Anna Andreadi 
+CA-2016-100363;08/04/2016;15/04/2016;Standard Class;JM-15655;Jim Mitchum        ;Corporate  ;United States;Glendale     ;Arizona     ;85301;West   ;OFF-PA-10004733;19;3;0,2;6,9;Anna Andreadi 
+CA-2016-101175;09/12/2016;14/12/2016;Standard Class;DM-12955;Dario Medina       ;Corporate  ;United States;Mesa         ;Arizona     ;85204;West   ;OFF-ST-10004950;100,7;6;0,2;-1,3;Anna Andreadi 
+CA-2016-106376;05/12/2016;10/12/2016;Standard Class;BS-11590;Brendan Sweed      ;Corporate  ;United States;Gilbert      ;Arizona     ;85234;West   ;OFF-AR-10002671;1113;8;0,2;111,3;Anna Andreadi 
+CA-2016-106376;05/12/2016;10/12/2016;Standard Class;BS-11590;Brendan Sweed      ;Corporate  ;United States;Gilbert      ;Arizona     ;85234;West   ;TEC-PH-10002726;168;4;0,2;63;Anna Andreadi 
+CA-2016-108189;02/10/2016;05/10/2016;First Class   ;ES-14080;Erin Smith         ;Corporate  ;United States;Tempe        ;Arizona     ;85281;West   ;OFF-PA-10001838;9,4;2;0,2;3,4;Anna Andreadi 
+CA-2016-108189;02/10/2016;05/10/2016;First Class   ;ES-14080;Erin Smith         ;Corporate  ;United States;Tempe        ;Arizona     ;85281;West   ;OFF-FA-10000735;4,7;2;0,2;1,5;Anna Andreadi 
+CA-2016-108189;02/10/2016;05/10/2016;First Class   ;ES-14080;Erin Smith         ;Corporate  ;United States;Tempe        ;Arizona     ;85281;West   ;TEC-PH-10001760;318,4;2;0,2;107,5;Anna Andreadi 
+CA-2016-108189;02/10/2016;05/10/2016;First Class   ;ES-14080;Erin Smith         ;Corporate  ;United States;Tempe        ;Arizona     ;85281;West   ;OFF-EN-10004846;12,8;6;0,2;4,6;Anna Andreadi 
+CA-2016-108189;02/10/2016;05/10/2016;First Class   ;ES-14080;Erin Smith         ;Corporate  ;United States;Tempe        ;Arizona     ;85281;West   ;OFF-SU-10003567;15,4;2;0,2;-3,3;Anna Andreadi 
+CA-2016-108189;02/10/2016;05/10/2016;First Class   ;ES-14080;Erin Smith         ;Corporate  ;United States;Tempe        ;Arizona     ;85281;West   ;TEC-PH-10001557;230,4;3;0,2;20,2;Anna Andreadi 
+CA-2016-108189;02/10/2016;05/10/2016;First Class   ;ES-14080;Erin Smith         ;Corporate  ;United States;Tempe        ;Arizona     ;85281;West   ;TEC-AC-10003038;7,2;1;0,2;-0,1;Anna Andreadi 
+CA-2016-123295;18/07/2016;18/07/2016;Same Day      ;AH-10120;Adrian Hane        ;Home Office;United States;Tucson       ;Arizona     ;85705;West   ;FUR-CH-10002372;259,1;4;0,2;-25,9;Anna Andreadi 
+CA-2016-124079;13/12/2016;17/12/2016;Standard Class;RF-19345;Randy Ferguson     ;Corporate  ;United States;Phoenix      ;Arizona     ;85023;West   ;FUR-FU-10002553;88;3;0,2;7,7;Anna Andreadi 
+CA-2016-124079;13/12/2016;17/12/2016;Standard Class;RF-19345;Randy Ferguson     ;Corporate  ;United States;Phoenix      ;Arizona     ;85023;West   ;OFF-BI-10002103;5,2;2;0,7;-4,2;Anna Andreadi 
+CA-2016-128986;03/08/2016;05/08/2016;Second Class  ;GH-14410;Gary Hansen        ;Home Office;United States;Glendale     ;Arizona     ;85301;West   ;OFF-PA-10001289;93;3;0,2;33,7;Anna Andreadi 
+CA-2016-133389;22/06/2016;22/06/2016;Same Day      ;TB-21280;Toby Braunhardt    ;Consumer   ;United States;Phoenix      ;Arizona     ;85023;West   ;OFF-BI-10001553;8,2;3;0,7;-6;Anna Andreadi 
+CA-2016-138177;19/09/2016;24/09/2016;Standard Class;ND-18460;Neil Ducich        ;Corporate  ;United States;Chandler     ;Arizona     ;85224;West   ;FUR-TA-10004607;73,9;1;0,5;-45,8;Anna Andreadi 
+CA-2016-138681;20/12/2016;22/12/2016;First Class   ;CT-11995;Carol Triggs       ;Consumer   ;United States;Tucson       ;Arizona     ;85705;West   ;FUR-FU-10001876;52;2;0,2;10,4;Anna Andreadi 
+CA-2016-138681;20/12/2016;22/12/2016;First Class   ;CT-11995;Carol Triggs       ;Consumer   ;United States;Tucson       ;Arizona     ;85705;West   ;TEC-AC-10003628;72;3;0,2;21,6;Anna Andreadi 
+CA-2016-138681;20/12/2016;22/12/2016;First Class   ;CT-11995;Carol Triggs       ;Consumer   ;United States;Tucson       ;Arizona     ;85705;West   ;FUR-CH-10004860;242,4;3;0,2;-42,4;Anna Andreadi 
+CA-2016-138681;20/12/2016;22/12/2016;First Class   ;CT-11995;Carol Triggs       ;Consumer   ;United States;Tucson       ;Arizona     ;85705;West   ;OFF-PA-10000357;221,9;5;0,2;77,7;Anna Andreadi 
+CA-2016-138681;20/12/2016;22/12/2016;First Class   ;CT-11995;Carol Triggs       ;Consumer   ;United States;Tucson       ;Arizona     ;85705;West   ;OFF-PA-10003270;8,4;2;0,2;2,6;Anna Andreadi 
+CA-2016-140039;13/09/2016;17/09/2016;Standard Class;ON-18715;Odella Nelson      ;Corporate  ;United States;Tempe        ;Arizona     ;85281;West   ;OFF-ST-10001034;79,4;5;0,2;6;Anna Andreadi 
+CA-2016-146591;19/01/2016;20/01/2016;First Class   ;TS-21340;Toby Swindell      ;Consumer   ;United States;Scottsdale   ;Arizona     ;85254;West   ;

@@ -1,0 +1,1 @@
+"C:\Users\Admin\Desktop\pdi-ce-9.4.0.0-343\data-integration\Kitchen.bat" /file:"C:\Users\Admin\de-101\Module4\superstore\final_job.kjb" /level:Basic

@@ -1,0 +1,103 @@
+Order_ID;Order_Date;Ship_Date;Ship_Mode;Customer_ID;Customer_Name;Segment;Country;City;State;Postal_Code;Region;Product_ID;Sales;Quantity;Discount;Profit;Person
+CA-2016-100881;28/03/2016;01/04/2016;Standard Class;DR-12940;Daniel Raglin      ;Home Office;United States;Albuquerque  ;New Mexico  ;87105;West   ;TEC-PH-10003273;302,4;3;0,2;22,7;Anna Andreadi 
+CA-2016-100972;19/11/2016;24/11/2016;Second Class  ;DB-13360;Dennis Bolton      ;Home Office;United States;Salt Lake Cit;Utah        ;84106;West   ;OFF-PA-10000357;166,4;3;0;79,9;Anna Andreadi 
+CA-2016-102645;23/01/2016;28/01/2016;Standard Class;IM-15055;Ionia McGrath      ;Consumer   ;United States;Las Vegas    ;Nevada      ;89115;West   ;OFF-PA-10001804;40,1;6;0;19,2;Anna Andreadi 
+CA-2016-104472;02/06/2016;07/06/2016;Standard Class;CK-12325;Christine Kargatis ;Home Office;United States;Orem         ;Utah        ;84057;West   ;OFF-BI-10001658;59,8;3;0,2;19,4;Anna Andreadi 
+CA-2016-104472;02/06/2016;07/06/2016;Standard Class;CK-12325;Christine Kargatis ;Home Office;United States;Orem         ;Utah        ;84057;West   ;FUR-FU-10000246;73,3;6;0;22;Anna Andreadi 
+CA-2016-104829;18/11/2016;21/11/2016;Second Class  ;JG-15805;John Grady         ;Corporate  ;United States;Provo        ;Utah        ;84604;West   ;OFF-PA-10003016;22;7;0;9,9;Anna Andreadi 
+CA-2016-106719;24/08/2016;24/08/2016;Same Day      ;RB-19645;Robert Barroso     ;Corporate  ;United States;Billings     ;Montana     ;59102;West   ;OFF-BI-10002799;8,3;2;0,2;2,7;Anna Andreadi 
+CA-2016-110555;11/04/2016;18/04/2016;Standard Class;MM-18055;Michelle Moray     ;Consumer   ;United States;Great Falls  ;Montana     ;59405;West   ;OFF-ST-10000876;87,1;7;0;24,4;Anna Andreadi 
+CA-2016-110555;11/04/2016;18/04/2016;Standard Class;MM-18055;Michelle Moray     ;Consumer   ;United States;Great Falls  ;Montana     ;59405;West   ;TEC-PH-10000586;105,6;2;0,2;9,2;Anna Andreadi 
+CA-2016-110555;11/04/2016;18/04/2016;Standard Class;MM-18055;Michelle Moray     ;Consumer   ;United States;Great Falls  ;Montana     ;59405;West   ;TEC-AC-10003399;217,4;6;0;91,3;Anna Andreadi 
+CA-2016-111451;26/12/2016;28/12/2016;First Class   ;KL-16555;Kelly Lampkin      ;Corporate  ;United States;Colorado Spri;Colorado    ;80906;West   ;FUR-FU-10004091;300,4;8;0,2;78,9;Anna Andreadi 
+CA-2016-111451;26/12/2016;28/12/2016;First Class   ;KL-16555;Kelly Lampkin      ;Corporate  ;United States;Colorado Spri;Colorado    ;80906;West   ;FUR-CH-10001891;230,4;3;0,2;20,2;Anna Andreadi 
+CA-2016-111451;26/12/2016;28/12/2016;First Class   ;KL-16555;Kelly Lampkin      ;Corporate  ;United States;Colorado Spri;Colorado    ;80906;West   ;FUR-FU-10002918;218,4;3;0,2;-24,6;Anna Andreadi 
+CA-2016-111451;26/12/2016;28/12/2016;First Class   ;KL-16555;Kelly Lampkin      ;Corporate  ;United States;Colorado Spri;Colorado    ;80906;West   ;OFF-BI-10004593;78,6;5;0,7;-62,9;Anna Andreadi 
+CA-2016-111451;26/12/2016;28/12/2016;First Class   ;KL-16555;Kelly Lampkin      ;Corporate  ;United States;Colorado Spri;Colorado    ;80906;West   ;OFF-FA-10004854;27,6;3;0,2;9,3;Anna Andreadi 
+CA-2016-114510;14/03/2016;19/03/2016;Standard Class;JF-15295;Jason Fortune-     ;Consumer   ;United States;Logan        ;Utah        ;84321;West   ;OFF-BI-10001617;33,1;4;0,2;11,2;Anna Andreadi 
+CA-2016-114510;14/03/2016;19/03/2016;Standard Class;JF-15295;Jason Fortune-     ;Consumer   ;United States;Logan        ;Utah        ;84321;West   ;OFF-ST-10000736;81;1;0;3,2;Anna Andreadi 
+CA-2016-114510;14/03/2016;19/03/2016;Standard Class;JF-15295;Jason Fortune-     ;Consumer   ;United States;Logan        ;Utah        ;84321;West   ;TEC-AC-10004877;82,8;12;0;6,6;Anna Andreadi 
+CA-2016-114510;14/03/2016;19/03/2016;Standard Class;JF-15295;Jason Fortune-     ;Consumer   ;United States;Logan        ;Utah        ;84321;West   ;OFF-ST-10003221;21,4;2;0;5,8;Anna Andreadi 
+CA-2016-114510;14/03/2016;19/03/2016;Standard Class;JF-15295;Jason Fortune-     ;Consumer   ;United States;Logan        ;Utah        ;84321;West   ;OFF-BI-10003007;62;2;0,2;20,2;Anna Andreadi 
+CA-2016-120096;04/07/2016;07/07/2016;First Class   ;KE-16420;Katrina Edelman    ;Corporate  ;United States;Aurora       ;Colorado    ;80013;West   ;OFF-PA-10001977;177,5;4;0,2;62,1;Anna Andreadi 
+CA-2016-120096;04/07/2016;07/07/2016;First Class   ;KE-16420;Katrina Edelman    ;Corporate  ;United States;Aurora       ;Colorado    ;80013;West   ;OFF-AP-10000692;32,4;2;0,2;3,2;Anna Andreadi 
+CA-2016-123477;18/01/2016;21/01/2016;Second Class  ;DW-13195;David Wiener       ;Corporate  ;United States;Springfield  ;Oregon      ;97477;West   ;OFF-AP-10000692;64,9;4;0,2;6,5;Anna Andreadi 
+CA-2016-124737;23/08/2016;27/08/2016;Standard Class;AP-10915;Arthur Prichep     ;Consumer   ;United States;Denver       ;Colorado    ;80219;West   ;OFF-PA-10001837;15,6;3;0,2;5,4;Anna Andreadi 
+CA-2016-124737;23/08/2016;27/08/2016;Standard Class;AP-10915;Arthur Prichep     ;Consumer   ;United States;Denver       ;Colorado    ;80219;West   ;OFF-SU-10004661;6,8;1;0,2;0,5;Anna Andreadi 
+CA-2016-124737;23/08/2016;27/08/2016;Standard Class;AP-10915;Arthur Prichep     ;Consumer   ;United States;Denver       ;Colorado    ;80219;West   ;FUR-FU-10003274;4,2;3;0,2;1,3;Anna Andreadi 
+CA-2016-124737;23/08/2016;27/08/2016;Standard Class;AP-10915;Arthur Prichep     ;Consumer   ;United States;Denver       ;Colorado    ;80219;West   ;TEC-PH-10000149;143,6;9;0,2;10,8;Anna Andreadi 
+CA-2016-124737;23/08/2016;27/08/2016;Standard Class;AP-10915;Arthur Prichep     ;Consumer   ;United States;Denver       ;Colorado    ;80219;West   ;OFF-PA-10000019;31,1;6;0,2;10,9;Anna Andreadi 
+CA-2016-124737;23/08/2016;27/08/2016;Standard Class;AP-10915;Arthur Prichep     ;Consumer   ;United States;Denver       ;Colorado    ;80219;West   ;OFF-PA-10001125;223,1;9;0,2;69,7;Anna Andreadi 
+CA-2016-125731;10/09/2016;16/09/2016;Standard Class;CL-12565;Clay Ludtke        ;Consumer   ;United States;Gresham      ;Oregon      ;97030;West   ;OFF-EN-10003072;21,7;7;0,2;7,6;Anna Andreadi 
+CA-2016-125731;10/09/2016;16/09/2016;Standard Class;CL-12565;Clay Ludtke        ;Consumer   ;United States;Gresham      ;Oregon      ;97030;West   ;FUR-CH-10003973;1487;5;0,2;148,7;Anna Andreadi 
+CA-2016-125759;08/02/2016;09/02/2016;First Class   ;NM-18445;Nathan Mautz       ;Home Office;United States;North Las Veg;Nevada      ;89031;West   ;FUR-FU-10002111;14,6;2;0;5,5;Anna Andreadi 
+CA-2016-126361;04/08/2016;09/08/2016;Second Class  ;VD-21670;Valerie Dominguez  ;Consumer   ;United States;Pleasant Grov;Utah        ;84062;West   ;OFF-AP-10003590;1089,8;3;0;305,1;Anna Andreadi 
+CA-2016-126361;04/08/2016;09/08/2016;Second Class  ;VD-21670;Valerie Dominguez  ;Consumer   ;United States;Pleasant Grov;Utah        ;84062;West   ;OFF-PA-10000806;447,8;8;0;219,4;Anna Andreadi 
+CA-2016-126361;04/08/2016;09/08/2016;Second Class  ;VD-21670;Valerie Dominguez  ;Consumer   ;United States;Pleasant Grov;Utah        ;84062;West   ;OFF-AR-10000896;16,4;5;0;4,3;Anna Andreadi 
+CA-2016-126361;04/08/2016;09/08/2016;Second Class  ;VD-21670;Valerie Dominguez  ;Consumer   ;United States;Pleasant Grov;Utah        ;84062;West   ;TEC-PH-10002310;400;5;0,2;35;Anna Andreadi 
+CA-2016-126361;04/08/2016;09/08/2016;Second Class  ;VD-21670;Valerie Dominguez  ;Consumer   ;United States;Pleasant Grov;Utah        ;84062;West   ;OFF-ST-10002289;158,9;5;0;7,9;Anna Andreadi 
+CA-2016-126361;04/08/2016;09/08/2016;Second Class  ;VD-21670;Valerie Dominguez  ;Consumer   ;United States;Pleasant Grov;Utah        ;84062;West   ;OFF-BI-10002852;13,2;1;0,2;4,8;Anna Andreadi 
+CA-2016-126760;26/07/2016;02/08/2016;Standard Class;KM-16720;Kunst Miller       ;Consumer   ;United States;North Las Veg;Nevada      ;89031;West   ;TEC-PH-10001363;912;2;0,2;114;Anna Andreadi 
+CA-2016-126760;26/07/2016;02/08/2016;Standard Class;KM-16720;Kunst Miller       ;Consumer   ;United States;North Las Veg;Nevada      ;89031;West   ;FUR-CH-10003312;674,4;3;0,2;-109,6;Anna Andreadi 
+CA-2016-126760;26/07/2016;02/08/2016;Standard Class;KM-16720;Kunst Miller       ;Consumer   ;United States;North Las Veg;Nevada      ;89031;West   ;FUR-FU-10004018;134;9;0;36,2;Anna Andreadi 
+CA-2016-126760;26/07/2016;02/08/2016;Standard Class;KM-16720;Kunst Miller       ;Consumer   ;United States;North Las Veg;Nevada      ;89031;West   ;TEC-AC-10004814;171;3;0;70,1;Anna Andreadi 
+CA-2016-129364;08/12/2016;13/12/2016;Standard Class;TB-21250;Tim Brockman       ;Consumer   ;United States;Salem        ;Oregon      ;97301;West   ;OFF-LA-10001569;27,9;7;0,2;9,1;Anna Andreadi 
+CA-2016-129364;08/12/2016;13/12/2016;Standard Class;TB-21250;Tim Brockman       ;Consumer   ;United States;Salem        ;Oregon      ;97301;West   ;OFF-BI-10001132;6,5;4;0,7;-4,5;Anna Andreadi 
+CA-2016-129364;08/12/2016;13/12/2016;Standard Class;TB-21250;Tim Brockman       ;Consumer   ;United States;Salem        ;Oregon      ;97301;West   ;TEC-PH-10003095;52,7;3;0,2;19,8;Anna Andreadi 
+CA-2016-129364;08/12/2016;13/12/2016;Standard Class;TB-21250;Tim Brockman       ;Consumer   ;United States;Salem        ;Oregon      ;97301;West   ;OFF-SU-10000432;13,9;5;0,2;-2,6;Anna Andreadi 
+CA-2016-129364;08/12/2016;13/12/2016;Standard Class;TB-21250;Tim Brockman       ;Consumer   ;United States;Salem        ;Oregon      ;97301;West   ;TEC-AC-10004227;103,9;10;0,2;-18,2;Anna Andreadi 
+CA-2016-129364;08/12/2016;13/12/2016;Standard Class;TB-21250;Tim Brockman       ;Consumer   ;United States;Salem        ;Oregon      ;97301;West   ;OFF-LA-10004409;11,5;5;0,2;3,7;Anna Andreadi 
+CA-2016-129364;08/12/2016;13/12/2016;Standard Class;TB-21250;Tim Brockman       ;Consumer   ;United States;Salem        ;Oregon      ;97301;West   ;OFF-PA-10001569;10,4;2;0,2;3,6;Anna Andreadi 
+CA-2016-129364;08/12/2016;13/12/2016;Standard Class;TB-21250;Tim Brockman       ;Consumer   ;United States;Salem        ;Oregon      ;97301;West   ;OFF-ST-10001031;39,1;3;0,2;2,9;Anna Andreadi 
+CA-2016-129574;26/05/2016;29/05/2016;First Class   ;Dp-13240;Dean percer        ;Home Office;United States;Murray       ;Utah        ;84107;West   ;OFF-PA-10002893;48,4;5;0;23,2;Anna Andreadi 
+CA-2016-131947;17/09/2016;22/09/2016;Standard Class;JA-15970;Joseph Airdo       ;Consumer   ;United States;Springfield  ;Oregon      ;97477;West   ;OFF-AR-10001473;5,2;2;0,2;0,5;Anna Andreadi 
+CA-2016-131947;17/09/2016;22/09/2016;Standard Class;JA-15970;Joseph Airdo       ;Consumer   ;United States;Springfield  ;Oregon      ;97477;West   ;OFF-AR-10000411;38,3;3;0,2;4,8;Anna Andreadi 
+CA-2016-131947;17/09/2016;22/09/2016;Standard Class;JA-15970;Joseph Airdo       ;Consumer   ;United States;Springfield  ;Oregon      ;97477;West   ;OFF-PA-10000246;40,2;5;0,2;13,1;Anna Andreadi 
+CA-2016-131947;17/09/2016;22/09/2016;Standard Class;JA-15970;Joseph Airdo       ;Consumer   ;United States;Springfield  ;Oregon      ;97477;West   ;TEC-MA-10004086;29,9;5;0,7;-21,9;Anna Andreadi 
+CA-2016-131947;17/09/2016;22/09/2016;Standard Class;JA-15970;Joseph Airdo       ;Consumer   ;United States;Springfield  ;Oregon      ;97477;West   ;OFF-PA-10003039;148,7;6;0,2;46,5;Anna Andreadi 
+CA-2016-131947;17/09/2016;22/09/2016;Standard Class;JA-15970;Joseph Airdo       ;Consumer   ;United States;Springfield  ;Oregon      ;97477;West   ;TEC-AC-10004633;55,9;10;0,2;16,8;Anna Andreadi 
+CA-2016-133690;03/08/2016;05/08/2016;First Class   ;BS-11755;Bruce Stewart      ;Consumer   ;United States;Denver       ;Colorado    ;80219;West   ;FUR-TA-10004289;218,8;2;0,5;-161,9;Anna Andreadi 
+CA-2016-133690;03/08/2016;05/08/2016;First Class   ;BS-11755;Bruce Stewart      ;Consumer   ;United States;Denver       ;Colorado    ;80219;West   ;OFF-AP-10003622;2,6;1;0,2;0,3;Anna Andreadi 
+CA-2016-134313;01/11/2016;07/11/2016;Standard Class;RA-19915;Russell Applegate  ;Consumer   ;United States;Denver       ;Colorado    ;80219;West   ;OFF-AR-10001897;43,2;3;0,2;4,3;Anna Andreadi 
+CA-2016-134313;01/11/2016;07/11/2016;Standard Class;RA-19915;Russell Applegate  ;Consumer   ;United States;Denver       ;Colorado    ;80219;West   ;TEC-PH-10001795;1984;4;0,2;248;Anna Andreadi 
+CA-2016-140816;20/12/2016;20/12/2016;Same Day      ;TC-21295;Toby Carlisle      ;Consumer   ;United States;Thornton     ;Colorado    ;80229;West   ;TEC-AC-10001539;447,9;7;0,2;89,6;Anna Andreadi 
+CA-2016-141355;25/09/2016;30/09/2016;Standard Class;BF-11005;Barry Franz        ;Home Office;United States;Aurora       ;Colorado    ;80013;West   ;OFF-AR-10003179;14,6;2;0,2;2,4;Anna Andreadi 
+CA-2016-142048;22/06/2016;25/06/2016;First Class   ;JE-15745;Joel Eaton         ;Consumer   ;United States;Louisville   ;Colorado    ;80027;West   ;TEC-AC-10004114;196,8;6;0,2;56,6;Anna Andreadi 
+CA-2016-143385;31/08/2016;05/09/2016;Standard Class;SJ-20500;Shirley Jackson    ;Consumer   ;United States;Santa Fe     ;New Mexico  ;87505;West   ;TEC-AC-10001635;92,5;9;0;18,5;Anna Andreadi 
+CA-2016-148915;01/11/2016;05/11/2016;Standard Class;ND-18370;Natalie DeCherney  ;Consumer   ;United States;Portland     ;Oregon      ;97206;West   ;OFF-ST-10001128;443,9;5;0,2;-94,3;Anna Andreadi 
+CA-2016-148915;01/11/2016;05/11/2016;Standard Class;ND-18370;Natalie DeCherney  ;Consumer   ;United States;Portland     ;Oregon      ;97206;West   ;TEC-PH-10000673;156;3;0,2;54,6;Anna Andreadi 
+CA-2016-152345;29/12/2016;03/01/2017;Second Class  ;ST-20530;Shui Tom           ;Consumer   ;United States;Albuquerque  ;New Mexico  ;87105;West   ;TEC-PH-10004897;24;3;0,2;-5,7;Anna Andreadi 
+CA-2016-152345;29/12/2016;03/01/2017;Second Class  ;ST-20530;Shui Tom           ;Consumer   ;United States;Albuquerque  ;New Mexico  ;87105;West   ;OFF-ST-10003123;33,3;1;0;8;Anna Andreadi 
+CA-2016-159121;26/07/2016;01/08/2016;Standard Class;JO-15145;Jack O'Briant      ;Corporate  ;United States;Draper       ;Utah        ;84020;West   ;TEC-AC-10002006;111,9;7;0;34,7;Anna Andreadi 
+CA-2016-160262;09/06/2016;13/06/2016;Second Class  ;TS-21205;Thomas Seio        ;Corporate  ;United States;North Las Veg;Nevada      ;89031;West   ;OFF-AR-10002335;18,1;7;0;4,7;Anna Andreadi 
+CA-2016-160262;09/06/2016;13/06/2016;Second Class  ;TS-21205;Thomas Seio        ;Corporate  ;United States;North Las Veg;Nevada      ;89031;West   ;OFF-PA-10003641;79,1;3;0;36,4;Anna Andreadi 
+CA-2016-160262;09/06/2016;13/06/2016;Second Class  ;TS-21205;Thomas Seio        ;Corporate  ;United States;North Las Veg;Nevada      ;89031;West   ;FUR-FU-10002685;37,4;2;0;14,2;Anna Andreadi 
+CA-2016-163419;11/11/2016;14/11/2016;Second Class  ;TZ-21580;Tracy Zic          ;Consumer   ;United States;Louisville   ;Colorado    ;80027;West   ;OFF-AR-10000034;3,4;1;0,2;0,8;Anna Andreadi 
+CA-2016-163419;11/11/2016;14/11/2016;Second Class  ;TZ-21580;Tracy Zic          ;Consumer   ;United States;Louisville   ;Colorado    ;80027;West   ;TEC-PH-10000560;560;2;0,2;56;Anna Andreadi 
+CA-2016-163419;11/11/2016;14/11/2016;Second Class  ;TZ-21580;Tracy Zic          ;Consumer   ;United States;Louisville   ;Colorado    ;80027;West   ;FUR-CH-10000665;603,9;5;0,2;75,5;Anna Andreadi 
+CA-2016-164210;18/11/2016;20/11/2016;Second Class  ;PW-19240;Pierre Wener       ;Consumer   ;United States;Louisville   ;Colorado    ;80027;West   ;FUR-TA-10000849;146;2;0,5;-99,3;Anna Andreadi 
+CA-2016-164210;18/11/2016;20/11/2016;Second Class  ;PW-19240;Pierre Wener       ;Consumer   ;United States;Louisville   ;Colorado    ;80027;West   ;OFF-PA-10002259;35,8;4;0,2;12,5;Anna Andreadi 
+CA-2016-164469;25/06/2016;27/06/2016;Second Class  ;GK-14620;Grace Kelly        ;Corporate  ;United States;Salem        ;Oregon      ;97301;West   ;TEC-PH-10002115;264;5;0,2;19,8;Anna Andreadi 
+CA-2016-164469;25/06/2016;27/06/2016;Second Class  ;GK-14620;Grace Kelly        ;Corporate  ;United States;Salem        ;Oregon      ;97301;West   ;OFF-AR-10003478;71,6;11;0,2;17,9;Anna Andreadi 
+CA-2016-164469;25/06/2016;27/06/2016;Second Class  ;GK-14620;Grace Kelly        ;Corporate  ;United States;Salem        ;Oregon      ;97301;West   ;OFF-AR-10000475;9,3;1;0,2;0,8;Anna Andreadi 
+CA-2016-167164;13/05/2016;15/05/2016;Second Class  ;AG-10270;Alejandro Grove    ;Consumer   ;United States;West Jordan  ;Utah        ;84084;West   ;OFF-ST-10000107;55,5;2;0;10;Anna Andreadi 
+CA-2016-168158;19/07/2016;24/07/2016;Standard Class;EM-14140;Eugene Moren       ;Home Office;United States;Great Falls  ;Montana     ;59405;West   ;OFF-BI-10001759;6,1;2;0,2;2,2;Anna Andreadi 
+CA-2016-168984;26/11/2016;02/12/2016;Standard Class;NW-18400;Natalie Webber     ;Consumer   ;United States;Tigard       ;Oregon      ;97224;West   ;OFF-PA-10001166;15,6;3;0,2;5,4;Anna Andreadi 
+CA-2016-168984;26/11/2016;02/12/2016;Standard Class;NW-18400;Natalie Webber     ;Consumer   ;United States;Tigard       ;Oregon      ;97224;West   ;OFF-ST-10001097;669,1;5;0,2;-167,3;Anna Andreadi 
+CA-2016-168984;26/11/2016;02/12/2016;Standard Class;NW-18400;Natalie Webber     ;Consumer   ;United States;Tigard       ;Oregon      ;97224;West   ;TEC-PH-10000038;438,3;4;0,2;-87,7;Anna Andreadi 
+CA-2017-101924;04/09/2017;09/09/2017;Standard Class;KB-16585;Ken Black          ;Corporate  ;United States;Medford      ;Oregon      ;97504;West   ;OFF-BI-10000962;9,8;2;0,7;-6,8;Anna Andreadi 
+CA-2017-104346;11/12/2017;16/12/2017;Standard Class;IM-15070;Irene Maddox       ;Consumer   ;United States;Colorado Spri;Colorado    ;80906;West   ;OFF-AR-10001473;13,1;5;0,2;1,1;Anna Andreadi 
+CA-2017-104346;11/12/2017;16/12/2017;Standard Class;IM-15070;Irene Maddox       ;Consumer   ;United States;Colorado Spri;Colorado    ;80906;West   ;FUR-BO-10003450;69,6;4;0,7;-143,8;Anna Andreadi 
+CA-2017-104346;11/12/2017;16/12/2017;Standard Class;IM-15070;Irene Maddox       ;Consumer   ;United States;Colorado Spri;Colorado    ;80906;West   ;OFF-AR-10001545;4,2;3;0,2;0,5;Anna Andreadi 
+CA-2017-104346;11/12/2017;16/12/2017;Standard Class;IM-15070;Irene Maddox       ;Consumer   ;United States;Colorado Spri;Colorado    ;80906;West   ;TEC-AC-10004396;58,1;4;0,2;-6,5;Anna Andreadi 
+CA-2017-104346;11/12/2017;16/12/2017;Standard Class;IM-15070;Irene Maddox       ;Consumer   ;United States;Colorado Spri;Colorado    ;80906;West   ;FUR-FU-10002456;52,4;9;0,2;15,1;Anna Andreadi 
+CA-2017-104346;11/12/2017;16/12/2017;Standard Class;IM-15070;Irene Maddox       ;Consumer   ;United States;Colorado Spri;Colorado    ;80906;West   ;FUR-FU-10001473;54,9;5;0,2;11;Anna Andreadi 
+CA-2017-104346;11/12/2017;16/12/2017;Standard Class;IM-15070;Irene Maddox       ;Consumer   ;United States;Colorado Spri;Colorado    ;80906;West   ;FUR-TA-10000849;364,9;5;0,5;-248,2;Anna Andreadi 
+CA-2017-104346;11/12/2017;16/12/2017;Standard Class;IM-15070;Irene Maddox       ;Consumer   ;United States;Colorado Spri;Colorado    ;80906;West   ;OFF-PA-10001166;85,1;3;0,2;28,7;Anna Andreadi 
+CA-2017-104346;11/12/2017;16/12/2017;Standard Class;IM-15070;Irene Maddox       ;Consumer   ;United States;Colorado Spri;Colorado    ;80906;West   ;OFF-PA-10003256;27,7;3;0,2;9,7;Anna Andreadi 
+CA-2017-105844;25/10/2017;27/10/2017;Second Class  ;JF-15415;Jennifer Ferguson  ;Consumer   ;United States;Sparks       ;Nevada      ;89431;West   ;OFF-AR-10001955;79,4;4;0;23,8;Anna Andreadi 
+CA-2017-106320;25/09/2017;30/09/2017;Standard Class;EB-13870;Emily Burns        ;Consumer   ;United States;Orem         ;Utah        ;84057;West   ;FUR-TA-10000577;1044,6;3;0;240,3;Anna Andreadi 
+CA-2017-106978;28/09/2017;04/10/2017;Standard Class;ZC-21910;Zuschuss Carroll   ;Consumer   ;United States;Aurora       ;Colorado    ;80013;West   ;OFF-EN-10004483;12,5;1;0,2;4,2;Anna Andreadi 
+CA-2017-106978;28/09/2017;04/10/2017;Standard Class;ZC-21910;Zuschuss Carroll   ;Consumer   ;United States;Aurora       ;Colorado    ;80013;West   ;OFF-BI-10002012;1,1;2;0,7;-0,8;Anna Andreadi 
+CA-2017-106978;28/09/2017;04/10/2017;Standard Class;ZC-21910;Zuschuss Carroll   ;Consumer   ;United States;Aurora       ;Colorado    ;80013;West   ;OFF-FA-10003021;4,5;3;0,2;0,8;Anna Andreadi 
+CA-2017-107468;18/12/2017;22/12/2017;Standard Class;MK-17905;Michael Kennedy    ;Corporate  ;
